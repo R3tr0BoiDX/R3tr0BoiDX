@@ -1,6 +1,6 @@
 - 👋 Hi, I’m R3tr0BoiDX, also known as Mirbro or Mibs
 - 👀 I’m interested in distributed systems, computer vision, IT-security and game design
-- 🌱 I’m currently studing computer science at the University of Applied Science Darmstadt, Germany
+- 🌱 I studied computer science at the University of Applied Science Darmstadt, Germany
 - 💞️ I’m looking to collaborate on on whatever I could help out with! I know a lot about fancy colorfull LEDs!
 - 📫 Reach out to me at mirco.janisch[at]stud.h-da.de
 
